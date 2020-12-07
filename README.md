@@ -1,0 +1,2 @@
+# CMPUT340_Project
+Repository for CMPUT340: INTRODUCTION TO NUMERICAL METHODS final project
